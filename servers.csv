@@ -1,0 +1,4 @@
+﻿ServerName,Environment,Owner
+localhost,Dev,John Doe
+127.0.0.1,Test,Jane Smith
+EC2AMAZ-UERLTB3,Prod,IT Dept
