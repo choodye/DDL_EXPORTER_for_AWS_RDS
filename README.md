@@ -1,4 +1,4 @@
-# DDL_EXPORTER_for_AWS_RDS
+# DDL_EXPORTER_for_AWS_RDS for migration assessment in AWS DMS Schema Conversion (DMS SC)
 
 This set of Powershell scripts is designed to aid Solution Architects with exporting, formatting self managed SQL Server database schemas to be imported into AWs RDS SQL Server for an assessment in AWS DMS Schema Conversion.
 
